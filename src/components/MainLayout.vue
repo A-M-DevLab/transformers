@@ -11,12 +11,12 @@
         <!-- Navigation -->
         <nav class="nav-links">
           <ul>
-            <li><a href="#" class="custom-btn btn-5"><span>Home</span></a></li>
+            <li><router-link to="/" class="custom-btn btn-5"><span>Home</span></router-link></li>
 
             <li class="dropdown">
               <a href="#" class="custom-btn btn-5"><span>How to Play</span></a>
               <ul class="dropdown-menu">
-                <router-link to="/rules" class="custom-btn btn-5"><span>Rules</span></router-link>
+                <li><router-link to="/rules"><span>Rules</span></router-link></li>
                 <li><a href="#">Keywords & FAQ</a></li>
                 <li><a href="#">Ban List</a></li>
                 <li><a href="#">Printing Cards</a></li>
