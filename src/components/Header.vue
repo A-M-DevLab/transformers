@@ -1,5 +1,8 @@
+<script setup lang="ts">
+
+</script>
+
 <template>
-  <div>
     <!-- HEADER -->
     <header>
       <div class="header-container">
@@ -67,39 +70,8 @@
         </nav>
       </div>
     </header>
-
-    <!-- MAIN PAGE CONTENT -->
-    <main>
-      <slot />
-    </main>
-
-    <!-- FOOTER -->
-    <footer>
-      <div class="social-icons">
-        <a href="https://discord.gg"><i class="fa-brands fa-discord footer-icon" style="color: white"></i></a>
-        <a href="#"><i class="fa-brands fa-facebook footer-icon" style="color: white"></i></a>
-        <a href="#"><img src="/icons/FBGroup.png" width="25px" height="25px" alt="Facebook Group" /></a>
-        <a href="#"><img src="/icons/Instagram.png" width="25px" height="25px" alt="Instagram" /></a>
-        <a href="#"><img src="/icons/Threads.png" width="25px" height="25px" alt="Threads" /></a>
-        <a href="#"><img src="/icons/Twitter.png" width="25px" height="25px" alt="Twitter" /></a>
-        <a href="#"><img src="/icons/Bluesky.png" width="25px" height="25px" alt="Bluesky" /></a>
-        <a href="#"><img src="/icons/YT.png" width="25px" height="25px" alt="YouTube" /></a>
-        <a href="#"><img src="/icons/Medium.png" width="25px" height="25px" alt="Medium" /></a>
-        <a href="#"><img src="/icons/Kofi.png" width="25px" height="25px" alt="Ko-fi" /></a>
-      </div>
-
-      <div class="copyright">
-        All Rights Reserved © 2020 Transformers Trading Card Game
-      </div>
-
-      <div class="contact">
-        <a href="mailto:support@transformers.com" class="btn-5">Support</a>
-      </div>
-    </footer>
-  </div>
 </template>
 
-<script setup lang="ts">
-</script>
+<style scoped>
 
-<style scoped src="../assets/css/styles.css"></style>
+</style>
