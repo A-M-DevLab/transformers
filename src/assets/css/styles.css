@@ -35,7 +35,6 @@ header {
   width: 100%;
   display: flex;
   align-items: center;    /* Center both logo and nav */
-  width: 100%;
 }
 
 /* Everything related to the Nav Button positioning */
