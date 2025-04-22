@@ -2,8 +2,6 @@
   <section class="showcase">
     <div class="hero"></div>
 
-
-
     <div class="background-block">
       <h2>BUILDING A TEAM AND DECK</h2>
       <p>All character cards and some battle cards have a number of stars near the bottom of the cards. Make sure the total number of stars on your character cards and battle cards combined is 25 or less.</p>

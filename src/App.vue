@@ -1,11 +1,10 @@
 <template>
   <Header></Header>
   <section class="showcase">
-
     <div class="overlay"></div>
       <video src="/media/Space.mp4" muted loop autoplay></video>
-
-    </section> <router-view />
+    </section>
+    <router-view />
   <Footer></Footer>
 </template>
 
