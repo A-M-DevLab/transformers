@@ -76,8 +76,8 @@
     <!-- FOOTER -->
     <footer>
       <div class="social-icons">
-        <a href="#"><img src="/icons/Discord.png" width="25px" height="25px" alt="Discord" /></a>
-        <a href="#"><img src="/icons/Facebook.png" width="25px" height="25px" alt="Facebook" /></a>
+        <a href="https://discord.gg"><i class="fa-brands fa-discord footer-icon" style="color: white"></i></a>
+        <a href="#"><i class="fa-brands fa-facebook footer-icon" style="color: white"></i></a>
         <a href="#"><img src="/icons/FBGroup.png" width="25px" height="25px" alt="Facebook Group" /></a>
         <a href="#"><img src="/icons/Instagram.png" width="25px" height="25px" alt="Instagram" /></a>
         <a href="#"><img src="/icons/Threads.png" width="25px" height="25px" alt="Threads" /></a>
