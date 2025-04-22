@@ -20,9 +20,9 @@
               <a href="#" class="custom-btn btn-5"><span>How to Play</span></a>
               <ul class="dropdown-menu">
                 <li><router-link to="/rules"><span>Rules</span></router-link></li>
-                <li><a href="#">Keywords & FAQ</a></li>
-                <li><a href="#">Ban List</a></li>
-                <li><a href="#">Printing Cards</a></li>
+                <li><router-link to="/keywords"><span>Keywords & FAQ</span></router-link></li>
+                <li><router-link to="/ban-list"><span>Ban List</span></router-link></li>
+                <li><router-link to="/print-cards"><span>Printing Cards</span></router-link></li>
                 <li><a href="#">How to Play Online</a></li>
               </ul>
             </li>
@@ -30,7 +30,7 @@
             <li class="dropdown">
               <a href="#" class="custom-btn btn-5"><span>Cards</span></a>
               <ul class="dropdown-menu">
-                <li><a href="#">All Cards</a></li>
+                <li><router-link to="/cards-all"><span>All Cards</span></router-link></li>
                 <li><a href="#">Battle Cards</a></li>
                 <li><a href="#">Character Cards</a></li>
                 <li><a href="#">Strategem Cards</a></li>
@@ -60,10 +60,10 @@
               </ul>
             </li>
 
-            <li><a href="#" class="custom-btn btn-5"><span>Download</span></a></li>
-            <li><a href="#" class="custom-btn btn-5"><span>News</span></a></li>
-            <li><a href="#" class="custom-btn btn-5"><span>Login</span></a></li>
-            <li><a href="#" class="custom-btn btn-5"><span>Sign-up</span></a></li>
+            <li><router-link to="/downloads" class="custom-btn btn-5"><span>Downloads</span></router-link></li>
+            <li><router-link to="/news" class="custom-btn btn-5"><span>News</span></router-link></li>
+            <li><router-link to="/enter" class="custom-btn btn-5"><span>Log In</span></router-link></li>
+            <li><router-link to="/enter" class="custom-btn btn-5"><span>Sign Up</span></router-link></li>
 
 
           </ul>
