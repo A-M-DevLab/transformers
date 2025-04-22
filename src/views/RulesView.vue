@@ -2,8 +2,7 @@
   <section class="showcase">
     <div class="hero"></div>
 
-    <video src="/media/Space.mp4" muted loop autoplay></video>
-    <div class="overlay"></div>
+
 
     <div class="background-block">
       <h2>BUILDING A TEAM AND DECK</h2>
