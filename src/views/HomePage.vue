@@ -7,8 +7,6 @@
       </h2>
     </div>
 
-    <video src="/media/Space.mp4" muted loop autoplay></video>
-    <div class="overlay"></div>
 
     <div class="text">
       <h2>Fast, action battling card game</h2>
