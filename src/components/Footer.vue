@@ -5,16 +5,15 @@
 <template>
   <footer>
     <div class="social-icons">
-      <a href="#"><font-awesome-icon icon="fa-brands fa-discord" size="xl" /></a>
-      <a href="#"><font-awesome-icon icon="fa-brands fa-facebook" size="xl" /></a>
-      <a href="#"><img src="/icons/FBGroup.png" width="25px" height="25px" alt="Facebook Group" /></a>
-      <a href="#"><font-awesome-icon icon="fa-brands fa-instagram" size="xl" /></a>
-      <a href="#"><img src="/icons/Threads.png" width="25px" height="25px" alt="Threads" /></a>
-      <a href="#"><img src="/icons/Twitter.png" width="25px" height="25px" alt="Twitter" /></a>
-      <a href="#"><img src="/icons/Bluesky.png" width="25px" height="25px" alt="Bluesky" /></a>
-      <a href="#"><img src="/icons/YT.png" width="25px" height="25px" alt="YouTube" /></a>
-      <a href="#"><img src="/icons/Medium.png" width="25px" height="25px" alt="Medium" /></a>
-      <a href="#"><img src="/icons/Kofi.png" width="25px" height="25px" alt="Ko-fi" /></a>
+      <a href="#"><font-awesome-icon icon="fa-solid fa-shop" size="xl" title="Ko-Fi Shop" color="white" /></a>
+      <a href="#"><font-awesome-icon icon="fa-solid fa-cards-blank" title="TCG Player Storefront"  size="xl" color="white"/></a>
+      <a href="#"><font-awesome-icon icon="fa-brands fa-discord" title="TFTCG.com Discord" size="xl" color="white"/></a>
+      <a href="#"><font-awesome-icon icon="fa-brands fa-instagram" title="TFTCG on Instagram" size="xl" color="white" /></a>
+      <a href="#"><font-awesome-icon icon="fa-brands fa-bluesky"  title="TFTCG on Bluesky" size="xl" color="white" /></a>
+      <a href="#"><font-awesome-icon icon="fa-brands fa-youtube"  title="TFTCG on YouTube" size="xl" color="white"/></a>
+      <a href="#"><font-awesome-icon icon="fa-brands fa-medium" title="TFTCG on Medium" size="xl" color="white"/></a>
+      <a href="#"><font-awesome-icon icon="fa-brands fa-reddit-alien" title="Transformers TCG Subreddit"  size="xl"  color="white" /></a>
+      <a href="#"><font-awesome-icon icon="fa-solid fa-mailbox-flag-up" title="Suggestion Box" size="xl" color="white"/></a>
     </div>
 
     <div class="copyright">
